@@ -7,7 +7,7 @@ function InputContainer(
         onAmountChange,
         onCurrencyChange,
         currencyOptions = [],
-        selectCurrency = 'inr'
+        selectCurrency = ''
 
     }
 ){
